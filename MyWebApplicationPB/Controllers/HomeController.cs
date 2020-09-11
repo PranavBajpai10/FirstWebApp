@@ -15,7 +15,7 @@ namespace MyWebApplicationPB.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Pranav Bajpai's page.";
+            ViewBag.Message = "Pranav Bajpai's Page.";
 
             return View();
         }
